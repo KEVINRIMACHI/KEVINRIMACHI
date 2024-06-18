@@ -19,7 +19,7 @@ Soy Rimachi, desarrollador Fullstack de Perú <img src="https://raw.githubuserco
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 
-
+## Las estadisticas del repositorio
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinrimachi&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinrimachi&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
